@@ -1,2 +1,3 @@
 # tip-calculator
-calculate tips
+calculate tips from customer 
+
