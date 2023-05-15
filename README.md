@@ -1,3 +1,3 @@
-# tip-calculator
-calculate tips from customer 
+# tip-calculator ,python language
+calculate tips  
 
